@@ -8,7 +8,7 @@ For example if the user inputs 47 cents as below:
 
 Then program will output the following:
 
-*quarters: 1
-dimes: 2
-nickels: 0
-pennies: 2*
+*quarters: 1*
+*dimes: 2*
+*nickels: 0*
+*pennies: 2*
